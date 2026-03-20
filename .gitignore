@@ -21,7 +21,6 @@ ENV/
 # Data — large generated artifacts
 data/vector_store/
 data/processed/
-data/raw/*.pdf
 
 # Jupyter
 .ipynb_checkpoints/
