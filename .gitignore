@@ -19,7 +19,6 @@ env/
 ENV/
 
 # Data — large generated artifacts
-data/vector_store/
 data/processed/
 
 # Jupyter
